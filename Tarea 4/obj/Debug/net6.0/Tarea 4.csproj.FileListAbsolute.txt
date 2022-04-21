@@ -1,0 +1,15 @@
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\bin\Debug\net6.0\Tarea 4.exe
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\bin\Debug\net6.0\Tarea 4.deps.json
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\bin\Debug\net6.0\Tarea 4.runtimeconfig.json
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\bin\Debug\net6.0\Tarea 4.dll
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\bin\Debug\net6.0\Tarea 4.pdb
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.csproj.AssemblyReference.cache
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.AssemblyInfoInputs.cache
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.AssemblyInfo.cs
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.dll
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\refint\Tarea 4.dll
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.pdb
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\Tarea 4.genruntimeconfig.cache
+C:\Users\Dani\Documents\Tareas UNAD\Programación\Tarea 4\Tarea 4\obj\Debug\net6.0\ref\Tarea 4.dll
